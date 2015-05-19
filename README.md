@@ -3,17 +3,17 @@ Stuff related to the final presentation
 
 **Sections**
 - Introduce the project and group members
-- Learning objectives
+- Learning objectives (do we each discuss our own?)
 - Technologies used
 - Live demo
-- Show code?
+- Show code? (do we show code from each app?)
 - What went well
 - What didn't go well
 - Plans for the future (brief)
 
-**Speakers (add your top two preferences for sections to discuss in the presentation next to your name)**
+**Speakers (add your top two preferences for sections to discuss next to your name)**
 - Alex
-- Cara
+- Cara (what went well, introduction)
 - Chhingchhing
 - Geordi
 - Greg
