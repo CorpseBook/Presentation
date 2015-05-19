@@ -1,6 +1,6 @@
 #Technologies
 
-- Rails
+- Ruby/Rails
 - JavaScript
 - jQuery
 - Ajax
