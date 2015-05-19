@@ -11,9 +11,9 @@ Stuff related to the final presentation
 - What didn't go well
 - Plans for the future (brief)
 
-**Speakers (add your top two preferences for sections to discuss in the presentation next to your name)**
+**Speakers (add your top two preferences for sections to discuss next to your name)**
 - Alex
-- Cara
+- Cara (what went well, introduction)
 - Chhingchhing
 - Geordi
 - Greg
