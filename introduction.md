@@ -1,4 +1,4 @@
-**Intro:**
+#Introduction
 
 Gretel members: Alex, Cara, Chhingchhing, Geordi, Greg, Harriet, Ira, Piet, Sreynak.
 
