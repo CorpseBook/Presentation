@@ -3,13 +3,14 @@ Stuff related to the final presentation
 
 **Sections**
 - Introduce the project and group members
-- Learning objectives (do we each discuss our own?)
-- Technologies used
 - Live demo
-- Show code? (do we show code from each app?)
-- What went well
+- Learning objectives (each discuss our own)
+- Technologies used
+- Show code - desktop, mobile, server, css
 - What didn't go well
+- What went well
 - Plans for the future (brief)
+- Live demo wrap up
 
 **Speakers**
 - Alex - Desktop code, learning objectives
